@@ -110,7 +110,14 @@
         "is_ready": true,
         "gambar": "nasi-goreng-telor.jpg"
       },
-      "id": 1
+      {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sate-ayam.jpg"
+      },
     }
   ],
   "pesanans": [
