@@ -101,7 +101,7 @@
   ],
   "keranjangs": [
     {
-      "jumlah_pemesanan": "",
+      "jumlah_pemesanan": "1",
       "products": {
         "id": 2,
         "kode": "K-02",
@@ -110,6 +110,8 @@
         "is_ready": true,
         "gambar": "nasi-goreng-telor.jpg"
       },
+      "id": 1
+    }
   ],
   "pesanans": [
     {
@@ -145,4 +147,4 @@
       "id": 1
     }
   ]
-}
+} 
